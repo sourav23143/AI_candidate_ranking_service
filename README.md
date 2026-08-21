@@ -6,7 +6,7 @@ The system exposes a **FastAPI REST API** capable of evaluating thousands of can
 
 ---
 
-# 📌 Overview
+# 📌 --Overview--
 
 Recruitment teams often receive hundreds or thousands of resumes. Manually screening them is slow and inconsistent.
 
