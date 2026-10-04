@@ -361,8 +361,6 @@ Possible enhancements:
 
 **Sourav Kumar**
 
-AI / ML Engineer
-
 GitHub
 https://github.com/souravkumar-eng
 
