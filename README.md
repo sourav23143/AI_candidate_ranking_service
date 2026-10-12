@@ -1,4 +1,4 @@
-# Candidate Ranking Service 
+Candidate Ranking Service 
 
 AI-powered **candidate recommendation and ranking system** designed to evaluate and rank candidates against a job description using **semantic similarity, rule-based scoring, and LLM-based explanations**.
 
